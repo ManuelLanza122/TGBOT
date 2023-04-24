@@ -20,6 +20,6 @@ async def callback_privates(client, callback_query):
 
 if __name__ == "__main__":
 	os.system('cls')    
-	print('iniciado !')         
+	print('¡Bot iniciado!')         
 	bot.run()
-	print('iniciado !')
+	print('¡Bot detenido!')
